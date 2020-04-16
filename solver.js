@@ -436,7 +436,7 @@ var all_qa = {
     },
     "108": {
         "question": "which statement is true about bumper ads?",
-        "answer": []
+        "answer": ["They’re designed for a mobile-first world.","They can be purchased through Google Ads or Google Preferred.","They provide reach, frequency, and brand awareness."]
     },
     "109": {
         "question": "what\u2019s a key benefit of trueview in-stream?",
@@ -508,7 +508,7 @@ var all_qa = {
     },
     "126": {
         "question": "match the youtube customer with the google audience signal type that helps advertisers connect with that customer.",
-        "answer": []
+        "answer": ["People who read reviews on car stereos — In-Market audiences People who answer forum questions about horses — Custom Affinity audiences People who have recently retired — Life Event People who frequently go on cruises — Consumer Patterns"]
     },
     "127": {
         "question": "what are two events that store visits for trueview for action come from? (choose two.) select all correct responses",
@@ -668,7 +668,7 @@ var all_qa = {
     },
     "166": {
         "question": "match each youtube platform innovation with its description.",
-        "answer": []
+        "answer": ["(1) Premiers (2) Stories (3) YouTube Go (4) VR180 (5) Mobile live streaming"]
     },
     "167": {
         "question": "what are two examples of the intent audience solution, life events? (choose two.)",
@@ -744,7 +744,7 @@ var all_qa = {
     },
     "185": {
         "question": "match the marketing objective with the trueview ad format that\u2019s optimized for that objective.",
-        "answer": []
+        "answer": ["TrueView for action – Action TrueView in-stream — Consideration TrueView discovery — Consideration TrueView for reach — Awareness"]
     },
     "186": {
         "question": "which two video formats are available on google video partners? (choose two.)",
@@ -776,7 +776,7 @@ var all_qa = {
     },
     "193": {
         "question": "match the trueview ad format with its corresponding bidding type. (not all options are used.)",
-        "answer": []
+        "answer": ["1 TrueViewfor action 2 TrueView discovery 3 TrueView in stream 4 TrueViewfor reach"]
     },
     "194": {
         "question": "based on the abcds of designing youtube ads, how does google recommend that you open with impact?",
@@ -868,7 +868,7 @@ var all_qa = {
     },
     "216": {
         "question": "when your goal is driving action, you focus on audiences with the strongest level of intent. match each \u201clowest funnel\u201d audience type with its description.",
-        "answer": []
+        "answer": ["1 People who’ve already spenttime searching for products or services like yours on Google Search 2 Peoplewho’vealreadyengagedwithyourbusiness,butdidn’tconvertwhenthey had the chance 3 People who are actively researching your business and its specific products and/or services 4 Peoplewithasimilarprofiletothecustomersyoucurrentlytarget,orwho frequent your business","Custom Intent Audiences for YouTube (1) In-Market Audiences (3) Remarketing or Customer Match (2) Similar Audiences (4)"]
     },
     "217": {
         "question": "which trueview ad format is billed by cpa?",
@@ -900,7 +900,7 @@ var all_qa = {
     },
     "224": {
         "question": "to assist advertisers using youtube, google created a set of recommendations based on successful campaigns, known as the abcds. match each recommendation with its meaning.",
-        "answer": []
+        "answer": ["(1) Be clear on what the audience should do. (2) Open YouTube ads with impact. (3) Tap into emotion, audio, and pacing. (4) Brand naturally and with purpose.","Direct (1) Connect (3) Attract (2) Brand (4)"]
     },
     "225": {
         "question": "which two are ideal advertisers for custom intent audiences? (choose two.)",
@@ -952,7 +952,7 @@ var all_qa = {
     },
     "237": {
         "question": "what are two ways google ads reporting for shopping campaigns help monitor how your products are performing at many levels of granularity? (choose two.)",
-        "answer": []
+        "answer": ["By helping you identify growth opportunities with impression-share data.","By using benchmarking data to get insights into your market’s business landscape."]
     },
     "238": {
         "question": "how can advertisers use shopping campaign ads in order to drive sales?",
@@ -1032,7 +1032,7 @@ var all_qa = {
     },
     "257": {
         "question": "how do smart shopping campaigns use automated bidding and placements, and machine learning to show a variety of the most relevant ads across google networks to potential customers?",
-        "answer": []
+        "answer": ["By testing different font styles and colors for specific product types."]
     },
     "258": {
         "question": "books by brock is a used bookstore that\u2019s always used text ads. they\u2019re looking at ways to optimize their experience with google ads, and considering local inventory ads. what\u2019s a unique feature of local inventory ads that can benefit books by brock?",
@@ -1160,7 +1160,7 @@ var all_qa = {
     },
     "289": {
         "question": "rhonda sells homemade artisan soaps. she just opened her first brick-and-mortar shop, soaps by rhonda, and she\u2019s considering running a local inventory ad with google. what does rhonda need to run a successful local inventory ad?",
-        "answer": []
+        "answer": ["Up-to-date product availability"]
     },
     "290": {
         "question": "where can shopping campaign ads appear on desktop search results pages?",
@@ -1332,11 +1332,11 @@ var all_qa = {
     },
     "332": {
         "question": "you want to track first opens for your mobile app. your app uses the firebase sdk. place the steps in the correct order to accomplish this within google ads. (the first step should be on top.)",
-        "answer": []
+        "answer": ["1. Link your Firebase account to your Google Ads account. 2. Select Conversions in Google 3. Select app installs and in-app acti 4. View data in GoogleAnalytics."]
     },
     "333": {
         "question": "google my business provides businesses with opportunities for connecting with their customers online. what are two ways google my business would help engage your customers? (choose two.)",
-        "answer": []
+        "answer": ["It allows your customers to make bookings right from your listing.","It offers clear, specific, quick, and accurate directions to your business."]
     },
     "334": {
         "question": "richard\u2019s a marketing executive for an online leather-goods retailer. he\u2019s focused on data measurement to drive sales of his company\u2019s belt lines. he turned to google\u2019s automated machine learning to help his company gain a competitive advantage in the marketplace. what\u2019s an important first step that richard must take to succeed at automation?",
@@ -1352,7 +1352,7 @@ var all_qa = {
     },
     "337": {
         "question": "you\u2019re setting up offline conversion tracking. you need to to upload offline data into your google ads account. which two formats are supported? (choose two.)",
-        "answer": []
+        "answer": ["Google Sheets","CSV"]
     },
     "338": {
         "question": "by linking a google my business account with a google ads account, you\u2019re able to create location extensions. which information can location extensions display?",
@@ -1404,11 +1404,11 @@ var all_qa = {
     },
     "350": {
         "question": "darian has a gourmet cupcake business and needs a website to compete with the other bakeries in his area. he has a google my business listing and wants to use the website builder to create a personalized design for his business. what are the steps, in order, for building a website using google my business? (list the first step at the top.)",
-        "answer": []
+        "answer": [" Darian signs into his Google My Business. Darian selects Website from the Home menu. Darian updates all his relevant business information. Darian adds images, including a cover photo and virtual tour. Darian chooses a unique domain and points it to the website."]
     },
     "351": {
         "question": "you want to track conversion actions in your google ads account to better measure what matters. place the steps for setting up a conversion action in order, with the first step on top.",
-        "answer": []
+        "answer": [" 1 Select the specific conversion action in Google Ads. 2 Copy the code snippet/conversion tag generated. 3 Add the conversion tracking tag to your website or app. 4 Review your conversion data to ensure your tag is firing correctly"]
     },
     "352": {
         "question": "due to google analytics providing a cross-channel view of the customer journey, there\u2019ll be differences in the way conversions are measured between google analytics and google ads. which is a difference you should be aware of?",
@@ -1540,7 +1540,7 @@ var all_qa = {
     },
     "384": {
         "question": "madison owns a retail clothing store. her marketing consultant says that with all the technology at their disposal, customers will go back and forth across multiple channels before choosing to buy an outfit at her store. the consultant recommends that madison think about her customer\u2019s journey before they actually arrive at her store. which type of strategy is madison\u2019s marketing director suggesting to help her drive sales at her physical location?",
-        "answer": []
+        "answer": ["Online-to-offline"]
     },
     "385": {
         "question": "tristan owns a local flower shop. his customers are already finding him online, but he\u2019s curious whether google my business can do more than just list his phone number and address. how can google my business help tristan engage his customers?",
@@ -1600,7 +1600,7 @@ var all_qa = {
     },
     "399": {
         "question": "you\u2019ve set up conversion actions for your online retail site. now you want to set up conversion tracking tags to gain some deeper insights into how people engage with your ads. match the required tagging action with the corresponding conversion measurement.",
-        "answer": []
+        "answer": [" 1 You use Google Ads conversion tracking with Google Analytics already implemented on site. 2 Google Analytics Imported Goals/Transactions 3 Google Tag Manager for Google Ads 4 Google Ads conversion tracking","Link Google Ads and Analytics (1) Add on the conversion linker to Google Tag Manager (3) No action required(1) Install gtag.js tags (2)"]
     },
     "400": {
         "question": "carlos has a physical store and doesn\u2019t have the ability to sell his products online. but he still advertises online and wants to measure how effective his online ads are in driving new customers in-store and generating new sales. what is the best way for carlos to achieve this within google ads?",
@@ -1608,7 +1608,7 @@ var all_qa = {
     },
     "401": {
         "question": "match each product available in google marketing platform for enterprise with its description.",
-        "answer": []
+        "answer": [" 1 Helps them understand their data 2 Manages all their marketing tags 3 Gets valuable customer feedback 4 Makes interactive charts and graphs"," Analytics 360 (1) Surveys 360 (3) Tag Manager (2) Data Studio (4)"]
     },
     "402": {
         "question": "brad wants to link his firebase account to his google ads account for his e-commerce app. what are the required minimum permissions for brad\u2019s google account to be able to do this?",
@@ -1684,7 +1684,7 @@ var all_qa = {
     },
     "420": {
         "question": "match each report with its description.",
-        "answer": []
+        "answer": ["Campaigns report (4) Top Conversions report (2) Assisted Conversions report (3) Attribution Overview report (1)"]
     },
     "421": {
         "question": "brianna has a physical store that she\u2019s successfully managed for 10 years. her products aren\u2019t designed to sell and ship online. she recently created an online website and app to advertise her business. now she\u2019s interested in using google ads to create an ad campaign and measure its effectiveness. how will offline conversion tracking help brianna?",
@@ -3709,7 +3709,7 @@ if (document.querySelector('.checkbox__label')){
     possibleAnswers = document.querySelectorAll("#assessment_response_form > div.question__answer > ul > li");
 
     var rightAnswers = matchQuestions(questionTodo,possibleAnswers);
-    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><h3>I am "+(Math.floor(rightAnswers.score * 100))+"% sure.</h3><p>This is the question we matched:</p><p>"+rightAnswers.question+"</p><br><p>The originals question:<br>"+questionTodo+"</p><br><p>The following answers should be correct: <br><strong>"+rightAnswers.answer+"</strong></p></div>";
+    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><p>"+questionTodo+"</p><h3>I am "+(Math.floor(rightAnswers.score * 100))+"% sure.</h3><p>This is the question we matched:</p><p>"+rightAnswers.question+"</p><br><p>The originals question:<br>"+questionTodo+"</p><br><p>The following answers should be correct: <br><strong>"+rightAnswers.answer+"</strong></p></div>";
 
 
     for (var x = 0; x < answerCount; x++){
@@ -3732,7 +3732,7 @@ if (document.querySelector('.checkbox__label')){
         var newAnswer;
         var likelyAnswer = {
             ourAnswer: "fuck you",
-            theirAnswer: "fuck me",
+            theirAnswer: questionTodo,
             score: 0
         };
 
@@ -3741,15 +3741,15 @@ if (document.querySelector('.checkbox__label')){
             if(answerChoice){
                 for(var y = 0; y < rightAnswers.answer.length; y++){
                     var answ = answerChoice.innerText.toLowerCase();
-                    oldAnswer = rightAnswers.answer[y];
+                    oldAnswer = rightAnswers.answer[y].toLowerCase();
 
-                    oldScore = JaroWrinker(rightAnswers.answer[y], answ);
+                    oldScore = JaroWrinker(rightAnswers.answer[y].toLowerCase(), answ);
                     if(oldScore > newScore) {
                         newScore = oldScore;
                         newAnswer = oldAnswer;
 
                         likelyAnswer = {
-                            ourAnswer: newAnswer,
+                            ourAnswer: newAnswer.toLowerCase(),
                             theirAnswer: answ,
                             score: newScore
                         };
@@ -3776,7 +3776,7 @@ if (document.querySelector('.checkbox__label')){
     }); 
     strTheir += '</ul>';
 
-    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><h3>I am "+(Math.floor(likelyAnswer.score * 100))+"% sure.</h3><p>Their answer choice:</p><p>"+strTheir+"</p><p>Our answer: <strong>"+strOur+"</strong></p></div>";
+    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><p>"+questionTodo+"</p><h3>I am "+(Math.floor(likelyAnswer.score * 100))+"% sure.</h3><p>Their answer choice:</p><p>"+strTheir+"</p><p>Our answer: <strong>"+strOur+"</strong></p></div>";
     
     };
 
@@ -3787,13 +3787,13 @@ if (document.querySelector('.checkbox__label')){
 
     var rightAnswers = matchQuestions(questionTodo,possibleAnswers);
 
-    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><h3>I am "+(Math.floor(rightAnswers.score * 100))+"% sure.</h3><p>This is the question we matched:</p><p>"+rightAnswers.question+"</p><br><p>The originals question:<br>"+questionTodo+"</p><br><p>The following answers should be correct: <br><strong>"+rightAnswers.answer+"</strong></p></div>";
+    document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><p>"+questionTodo+"</p><h3>I am "+(Math.floor(rightAnswers.score * 100))+"% sure.</h3><p>This is the question we matched:</p><p>"+rightAnswers.question+"</p><br><p>The originals question:<br>"+questionTodo+"</p><br><p>The following answers should be correct: <br><strong>"+rightAnswers.answer+"</strong></p></div>";
 
     for (var x = 0; x < answerCount; x++){
         var answerChoice = document.querySelector("#assessment_response_form > div.question__answer > ul > li:nth-child("+(x+1)+") > label > span.radio__label");
         if(answerChoice){
             for(var i = 0; i < rightAnswers.answer.length; i++){
-                if(rightAnswers.answer[i] === answerChoice.innerText.toLowerCase()){
+                if(rightAnswers.answer[i].toLowerCase() === answerChoice.innerText.toLowerCase()){
                     answerFound = true;
                     document.querySelector("#choice_id_"+x).click();
                 };
@@ -3808,7 +3808,7 @@ if (document.querySelector('.checkbox__label')){
         var newAnswer;
         var likelyAnswer = {
             ourAnswer: "fuck you",
-            theirAnswer: "fuck me",
+            theirAnswer: questionTodo,
             score: 0
         };
 
@@ -3817,22 +3817,22 @@ if (document.querySelector('.checkbox__label')){
             if(answerChoice){
                 for(var i = 0; i < rightAnswers.answer.length; i++){
                     var answ = answerChoice.innerText.toLowerCase();
-                    oldAnswer = rightAnswers.answer[i];
+                    oldAnswer = rightAnswers.answer[i].toLowerCase();
 
-                    oldScore = JaroWrinker(rightAnswers.answer[i], answ);
+                    oldScore = JaroWrinker(rightAnswers.answer[i].toLowerCase(), answ);
 
                     if(oldScore > newScore) {
                         newScore = oldScore;
                         newAnswer = oldAnswer;
 
                         likelyAnswer = {
-                            ourAnswer: newAnswer,
-                            theirAnswer: answ,
+                            ourAnswer: newAnswer.toLowerCase(),
+                            theirAnswer: answ.toLowerCase(),
                             score: newScore
                         };
                         document.querySelector("#choice_id_"+x).click();
                     };
-                document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><h3>I am "+(Math.floor(likelyAnswer.score * 100))+"% sure.</h3><p>Their answer choice: <strong>"+likelyAnswer.theirAnswer+"</strong></p><p>Our answer: <strong>"+likelyAnswer.ourAnswer+"</strong></p>";
+                document.querySelector('div.question__question > p').innerHTML = "<div style='border:1px solid black'><p>"+questionTodo+"</p><h3>I am "+(Math.floor(likelyAnswer.score * 100))+"% sure.</h3><p>Their answer choice: <strong>"+likelyAnswer.theirAnswer+"</strong></p><p>Our answer: <strong>"+likelyAnswer.ourAnswer+"</strong></p>";
                 };
             };
         };
@@ -3866,7 +3866,7 @@ function matchQuestions(questionTodo, possibleAnswers){
                 newScore = oldScore;
                 var mostLikely = {
                     score: newScore,
-                    question: questionInFile,
+                    question: questionInFile.toLowerCase(),
                     answer: answers
                 };
             };
