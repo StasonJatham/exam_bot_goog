@@ -3,6 +3,19 @@ Just a Bot that solves Exams
 
 Cool Sources for Exam Dumps:
  - https://www.gcertificationcourse.com/ (very nice)
+ ```javascript
+ // youu can use my script below to scrape this page
+ // https://github.com/StasonJatham/exam_bot_goog/blob/master/YouTube/scrape_youtube_questions.py 
+ // get list of links for scraping 
+ var links = document.querySelectorAll("article > div > ol > li > a");
+ var links_array = [];
+ [].forEach.call(
+   links, 
+   function(elem){
+     links_array.push(elem.getAttribute("href"));
+  }
+);
+ ```
  - https://school4seo.com/ (horribly formatted for scraping
  - https://www.certificationanswers.com/en/home/
 
