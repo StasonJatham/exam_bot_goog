@@ -1,6 +1,11 @@
 # exam_bot_goog
 Just a Bot that solves Exams
 
+Cool Sources for Exam Dumps:
+ - https://www.gcertificationcourse.com/ (very nice)
+ - https://school4seo.com/ (horribly formatted for scraping
+ - https://www.certificationanswers.com/en/home/
+
 1. Scrape
 2. Clean
 3. Transform
