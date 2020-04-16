@@ -14,8 +14,10 @@ Cool Sources for Exam Dumps:
    function(elem){
      links_array.push(elem.getAttribute("href"));
   }
-);
+); copy(links_array);
+// with copy it copies array to cliboard without truncation
  ```
+ 
  - https://school4seo.com/ (horribly formatted for scraping
  - https://www.certificationanswers.com/en/home/
 
