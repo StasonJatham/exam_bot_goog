@@ -6,7 +6,9 @@ Source of Questions and Answers
 Link to the Exam
 - https://analytics.google.com/analytics/academy/
 
+
  ```javascript
+ // get links from https://www.certificationanswers.com/en/home/
  var links = document.querySelectorAll("article > header > h1");
  var links_array = [];
  [].forEach.call(
